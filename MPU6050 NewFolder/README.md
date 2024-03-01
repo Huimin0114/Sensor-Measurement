@@ -25,4 +25,5 @@ Gyroscope suffer from drift; accelerometers are used to compensate for that.
 •Connect the GND pin to one of the GND pins on the Arduino.
 •Attach the SDA (Serial Data) pin of the MPU6050 to the SDA pin on the Arduino.
 •Attach the SCL (Serial Clock) pin of the MPU6050 to the SCL pin on the Arduino.
-![e5a2ff206b2b3e1b360eb20d2ba304f](https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/7bb5d8c1-6975-46d6-8c8a-42ea94aed6eb)
+![1(1)](https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/26a2d5fc-5566-4ea2-9b42-571648b74f4f)
+
