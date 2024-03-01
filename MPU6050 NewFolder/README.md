@@ -33,6 +33,9 @@ Gyroscope suffer from drift; accelerometers are used to compensate for that.
 
 •Attach the SCL (Serial Clock) pin of the MPU6050 to the SCL pin on the Arduino.
 
+<img width="523" alt="1709336829495" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/b7ecd5a9-b6d9-42c0-9243-06ec864d0537">
+
+
 ![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/77272d7d-0653-4dd1-a862-81137e6c9beb)
 
 <img width="687" alt="c66b46f960a0d10cc7f6396e25df23a" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/72cef846-0612-44e2-8080-3ee1783f3f0c">
