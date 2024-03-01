@@ -11,3 +11,5 @@ An accelerometer is a device that measures acceleration. For example, an acceler
 A gyroscope is a device used for measuring or maintaining orientation. A typical implementation is a spinning wheel in which the axis of rotation is free to assume any orientation by itself. Applications of gyroscopes include navigation systems.
 
 Gyroscope suffer from drift; accelerometers are used to compensate for that.
+
+<img width="213" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/e9ec1e55-b7b2-465a-82f7-352b962c6f56">
