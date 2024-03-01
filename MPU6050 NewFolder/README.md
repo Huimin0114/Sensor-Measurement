@@ -35,6 +35,9 @@ Gyroscope suffer from drift; accelerometers are used to compensate for that.
 
 ![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/77272d7d-0653-4dd1-a862-81137e6c9beb)
 
+<img width="687" alt="c66b46f960a0d10cc7f6396e25df23a" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/72cef846-0612-44e2-8080-3ee1783f3f0c">
+
+
 # Secure MPU6050 to Breadboard:
 
 •Take a piece of adhesive tape that is suitable in length to hold the MPU6050 module.
@@ -42,4 +45,7 @@ Gyroscope suffer from drift; accelerometers are used to compensate for that.
 •Place the MPU6050 on the breadboard in the desired location, ensuring that it lies flat and none of the pins are bent.
 
 •Apply the adhesive tape over the MPU6050 module, pressing firmly to adhere it to the breadboard without covering any of the pin headers or interfering with the pin connections.
+
+<img width="294" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/cef593ba-6901-4365-8b3a-13c465ac6f0d">
+
 
