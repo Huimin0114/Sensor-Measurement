@@ -21,9 +21,13 @@ Gyroscope suffer from drift; accelerometers are used to compensate for that.
 
 # Getting started
 •Materials: one MPU6050 module, one Mega 2560 board, one breadboard, one adhesive tape and six wires.
+
 •Using jumper wires, connect the VCC pin of the MPU6050 to the 5V output on the Arduino Mega 2560.
+
 •Connect the GND pin to one of the GND pins on the Arduino.
+
 •Attach the SDA (Serial Data) pin of the MPU6050 to the SDA pin on the Arduino.
+
 •Attach the SCL (Serial Clock) pin of the MPU6050 to the SCL pin on the Arduino.
 
 ![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/77272d7d-0653-4dd1-a862-81137e6c9beb)
