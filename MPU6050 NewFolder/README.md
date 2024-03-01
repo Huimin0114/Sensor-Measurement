@@ -17,3 +17,12 @@ Gyroscope suffer from drift; accelerometers are used to compensate for that.
 
 <img width="213" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/e9ec1e55-b7b2-465a-82f7-352b962c6f56">
 <img width="446" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/73cd4688-d7a4-4af1-ac1b-bfcee8122a1a">
+<img width="392" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/1cb9b075-d146-4584-815e-8d34801d7580">
+
+# Getting started
+•Materials: one MPU6050 module, one Mega 2560 board, one breadboard, one adhesive tape and six wires.
+•Using jumper wires, connect the VCC pin of the MPU6050 to the 5V output on the Arduino Mega 2560.
+•Connect the GND pin to one of the GND pins on the Arduino.
+•Attach the SDA (Serial Data) pin of the MPU6050 to the SDA pin on the Arduino.
+•Attach the SCL (Serial Clock) pin of the MPU6050 to the SCL pin on the Arduino.
+![e5a2ff206b2b3e1b360eb20d2ba304f](https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/7bb5d8c1-6975-46d6-8c8a-42ea94aed6eb)
