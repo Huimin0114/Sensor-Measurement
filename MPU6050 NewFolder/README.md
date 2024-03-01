@@ -16,3 +16,4 @@ A gyroscope is a device used for measuring or maintaining orientation. A typical
 Gyroscope suffer from drift; accelerometers are used to compensate for that.
 
 <img width="213" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/e9ec1e55-b7b2-465a-82f7-352b962c6f56">
+<img width="446" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/73cd4688-d7a4-4af1-ac1b-bfcee8122a1a">
