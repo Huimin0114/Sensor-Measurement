@@ -10,7 +10,8 @@ In this example, we can directly connect the pins of DHT11 Module to the pins of
 ![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/85097740-6d5d-4cf7-bd81-84ce10d03f69)!![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/c7d242cf-a51f-453e-b6e4-b003de7416d6)
 
 # Specification table
-![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/5fc98355-eeff-4d0f-8850-5549c4576645)
+![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/d15286a4-d728-4bb4-b831-5aa40930227f)
+
 
 
 
