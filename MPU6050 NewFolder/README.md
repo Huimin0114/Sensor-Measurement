@@ -143,8 +143,7 @@ I taped the MPU6050 to the breadboard, then taped the breadboard to the back of 
 
 ##### then I use Excel to record and draw a scott diagram
 
-<img width="463" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/29d262ac-f66d-4b40-8063-b49b5bdbddf2">
-
+<img width="454" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/f2683802-ff6f-4586-9163-b2046e6232be">
 
 <img width="463" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/d814f73b-ab43-4c3b-bc7b-f9c6ad260515">
 
