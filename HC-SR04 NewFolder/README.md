@@ -2,7 +2,7 @@
 
 The HC-SR04 ultrasonic sensor uses sonar to determine distance to an object like bats or dolphins do. It offers excellent non-contact range detection with high accuracy and stable readings in an easy-to-use package. From 2cm to 400 cm or 1" to 13 feet. It operation is not affected by sunlight or black material like Sharp rangefinders are (although acoustically soft materials like cloth can be difficult to detect). It comes complete with ultrasonic transmitter and receiver module.
 
-## Explanation
+## Description
   The HC-SR04 module contains two main parts: an ultrasonic transmitter and a receiver. When the module receives the signal, it will immediately transmit an ultrasonic wave. This wave travels through the air and, if it meets any object, it will reflect back and pick up by the receiver on the module. After the receiver receives this wave, the module will send a signal and calculate the distance between the module and the object. To get the characteristics, we need to Fix the sensor in one position, then place the target object at different distances to get the data.
 
 ## Wiring Diagrams and Pictures of Actual Experiment Setup
