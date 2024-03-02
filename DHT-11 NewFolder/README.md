@@ -145,4 +145,6 @@ fprintf('Standard deviation of temperature errors: %.3f°C\n', std_dev);
 
 ![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/99fbcaee-10d1-404a-b4c3-7c697f4d0b2f)
 
+![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/f7a9fc88-532a-4a4a-bfe1-ac87642b52c6)
+
 
