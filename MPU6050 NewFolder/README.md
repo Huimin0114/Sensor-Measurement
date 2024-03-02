@@ -107,6 +107,22 @@ I taped the MPU6050 to the breadboard, then taped the breadboard and Mega2560 to
 
 <img width="328" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/afe7d781-c6f4-47ad-a382-35a73dfe81f2">
 
+##### the data is shown below:
+
+<img width="632" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/620beaf1-059e-4ced-ac93-833db6826751">
+
+![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/6af87b12-40a5-4e33-84cc-99c971e41bbc)
+
+##### then I use Excel to calculate
+
+<img width="313" alt="1709342869016" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/97b8e503-b06c-4839-86f0-56e70c38e5ea">
+
+
+
+
+
+
+
 
 •When the conveyor belt speed is 0.5MPH
 
