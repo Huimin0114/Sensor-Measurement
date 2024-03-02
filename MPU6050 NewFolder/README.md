@@ -51,7 +51,7 @@ Gyroscope suffer from drift; accelerometers are used to compensate for that.
 
 <img width="294" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/cef593ba-6901-4365-8b3a-13c465ac6f0d">
 
-<pre><code>```#define ACCELE_RANGE 4
+<pre><code>#define ACCELE_RANGE 4
 #define GYROSC_RANGE 500
 
 #include<Wire.h>
