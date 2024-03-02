@@ -182,6 +182,16 @@ Testing Environment: I will test them in a controlled environment that allows fo
 
 ![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/b6c998a3-3c4c-4a52-adcb-75087112d01f)
 
+Based on the tests described above, We can conclude that the DHT-11 sensor's effective temperature measurement range covers at least from 0°C to 50°C, and its humidity measurement range covers at least from about 20%RH to 80%RH. This generally aligns with the specifications provided for the DHT-11.
+
+# Conclusion
+
+By directly observing and analyzing experimental data,we can determine the measurement range of the DHT-11 sensor under specific test conditions. This approach offers a direct and practical way to verify the sensor's performance, especially in application development and environmental monitoring projects. It's important to note that the actual performance of the sensor in practical applications may be influenced by various factors, including  environmental conditions,  placement.Therefore, these external factors should be considered .
+
+
+
+
+
 
 
 
