@@ -176,4 +176,11 @@ Testing Environment: I will test them in a controlled environment that allows fo
 
 4.Enclosed testing environment
 
+ * Testing figure
+
+I changed it from an environment of 20 degrees Celsius to a refrigerator of 0 degrees Celsius and measured its temperature.
+
+![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/d091f115-2049-4aa4-9bb3-d31173c0d3a8)
+
+
 
