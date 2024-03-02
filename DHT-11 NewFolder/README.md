@@ -6,8 +6,7 @@
 
 In this example, we can directly connect the pins of DHT11 Module to the pins of Mega 2560 Board, and we use pin 4 to read the signal of DHT11 Module. Connect the pin「+」of DHT11 Module to 5V, the pin「-」 to GND, and the pin OUT to pin 4.
 
-![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/85097740-6d5d-4cf7-bd81-84ce10d03f69)![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/afcbc9c8-2b25-43c2-818c-8fd9424fcb2f)
-
+![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/85097740-6d5d-4cf7-bd81-84ce10d03f69)!
 
 
 
