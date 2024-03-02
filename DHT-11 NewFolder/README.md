@@ -188,8 +188,11 @@ Based on the tests described above, We can conclude that the DHT-11 sensor's eff
 
 # Conclusion
 
-By directly observing and analyzing experimental data,we can determine the measurement range of the DHT-11 sensor under specific test conditions. This approach offers a direct and practical way to verify the sensor's performance.
+The experimental results from the sensor measurement shows that the DHT-11 sensor operates accuracy and range for both temperature and humidity. Specifically, the sensor's temperature measurements fall within the 0°C to 50°C range, and its humidity measurements are accurate within the 22%RH to 80%RH range. These findings are consistent with the manufacturer's specifications.It indicates the DHT-11's reliability and suitability for applications requiring environmental monitoring within these parameters.
 
+The accuracy of the DHT-11 in reflecting true environmental conditions with precise temperature and humidity monitoring .
+
+This experiment shows the importance of understanding a sensor's characteristics, including its accuracy and operational range. From the introdtuction,we know that the DHT-11 is cheap and effective.We can use them in our daily life to measure the temperature and humidity.
 
 
 
