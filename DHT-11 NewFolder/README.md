@@ -149,4 +149,4 @@ fprintf('Standard deviation of temperature errors: %.3f°C\n', std_dev);
 
 * Comparison
   
-Based on the experimental results, we can observe that the average errors in both temperature and humidity measurements of the DHT-11 are within the specifications provided by the manufacturer, and the fluctuations are minimal. This indicates that the DHT-11 demonstrates good accuracy and consistency under the test conditions.
+Based on the experimental results, we can observe that the average errors in both temperature and humidity measurements of the DHT-11 are within the specifications provided by the manufacturer(±5%RH and ±2℃), and the fluctuations are minimal. This indicates that the DHT-11 demonstrates good accuracy and consistency under the test conditions.
