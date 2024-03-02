@@ -77,6 +77,7 @@ Testing Environment: I will test them in a controlled environment that allows fo
 ![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/1910b7ba-eb37-4a92-a2e1-7a673fb1d92a)
 
 ![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/eba21d6c-7d99-47a5-b9ac-d7413b1fe471)
+![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/3b40491e-f561-40b0-acf2-da46c71a6826)
 
 
 
