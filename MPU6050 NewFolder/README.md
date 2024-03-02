@@ -110,5 +110,6 @@ I taped the MPU6050 to the breadboard, then taped the breadboard and Mega2560 to
 
 •When the conveyor belt speed is 0.5MPH
 
-![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/c67b82f6-b4e0-4f5e-9dbe-852023aa71e2)
+![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/11991914-be98-4da4-bb54-4b14a1e7da51)
+
 
