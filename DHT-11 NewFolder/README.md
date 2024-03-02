@@ -51,6 +51,8 @@ void loop() {
   Serial.println(" *C");
 }
 
+ # Accuracy
+ 
 
 
 
