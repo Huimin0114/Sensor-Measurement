@@ -83,6 +83,7 @@ Testing Environment: I will test them in a controlled environment that allows fo
 
 # Matlab code
 I will use the matlab to caculate the error
+Matlab code of humidity
 <pre><code>
 % Define the humidity data
 dht11_readings = {
@@ -110,7 +111,8 @@ fprintf('Average error (accuracy): %.3f%%\n', avg_error);
 fprintf('Standard deviation of humidity errors: %.3f%%\n', std_dev);
 </code></pre>
 
-</code></pre>
+Matlab code of Temperature 
+<pre><code>
 % Define the temperature data
 dht11_temperatures = {
     repmat(28.1, 1, 10), % Group 1: 10 readings of 28.1°C
