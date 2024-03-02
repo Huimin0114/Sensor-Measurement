@@ -83,7 +83,7 @@ Testing Environment: I will test them in a controlled environment that allows fo
 
 # Matlab code
 I will use the matlab to caculate the error
-
+<pre><code>
 % Define the data
 dht11_readings = {
     repmat(29.9, 1, 10),  % Group 1: 10 readings of 29.9%
@@ -108,7 +108,7 @@ std_dev = std(humidity_errors);
 % Display the results
 fprintf('Average error (accuracy): %.3f%%\n', avg_error);
 fprintf('Standard deviation of humidity errors: %.3f%%\n', std_dev);
-
+</code></pre>
 
 
 
