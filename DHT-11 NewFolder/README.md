@@ -141,4 +141,7 @@ fprintf('Average error (accuracy): %.3f°C\n', avg_error);
 fprintf('Standard deviation of temperature errors: %.3f°C\n', std_dev);
 </code></pre>
 
+* Results
+
+![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/0d73915b-f7c2-490a-92e9-b71e621dcbd5)
 
