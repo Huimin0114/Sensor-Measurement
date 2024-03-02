@@ -61,7 +61,12 @@ Reference Standard: the accuracy is ±5%RH and ±2℃.
 
 Testing Environment: I will test them in a controlled environment that allows for temperature and humidity adjustments (0 to 50°C for temperature and 20% to 80%RH for humidity).
 
-* Method: 1.Let the environment's temperature and humidity to stable for at least 30 minutes at each test point.  2.Record temperature and humidity readings from both the DHT-11 and the reference instrument simultaneously.  3.Repeat measurements across various temperature and humidity points to comprehensively assess the DHT-11's performance.
+* Method:
+1.Let the environment's temperature and humidity to stable for at least 30 minutes at each test point.
+
+2.Record temperature and humidity readings from both the DHT-11 and the reference instrument simultaneously.  
+
+3.Repeat measurements across various temperature and humidity points to comprehensively assess the DHT-11's performance.
  
 
 
