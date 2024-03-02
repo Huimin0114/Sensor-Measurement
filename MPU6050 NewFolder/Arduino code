@@ -1,4 +1,5 @@
-<pre><code>
+</pre></code>
+
 #include <MPU6050.h>
 
 #define ACCELE_RANGE 4
@@ -36,4 +37,5 @@ void loop() {
   Serial.print(" | GyZ = "); Serial.print(GyZ / 65536 * GYROSC_RANGE+0.25); Serial.println("d/s \n");
   delay(500);
 }
+
 </code></pre>
