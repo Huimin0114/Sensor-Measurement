@@ -58,7 +58,7 @@ float readSensorData(){
 ## Measured Data and Analysis
 ### Data Sheet
 
-<img width="887" alt="1709336161911" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161894946/618747e7-c882-4911-b4a5-28a593546aea">
+<img width="864" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161894946/ec5f774f-c9f6-47c5-bfa3-ac2c82d6145b">
 
 
 ### 1.Range
@@ -67,16 +67,17 @@ Experimental operation：Fix the sensor in one position, then place the target o
 
 Conclusion: The measurement range of HC-SR04 is approximately 2cm to 400cm, which is consistent with the data in the data sheet.
 
-<img width="41" alt="08f412c5724f4ef1f9d8453e6cbbaca" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161894946/8c62d460-77dc-4203-90ff-1a964ebbe672"> <img width="52" alt="e9ac55744198a9959d2a04ad14e9246" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161894946/ec90507a-b7d6-47a3-99a0-7d620c1329bd">
+<img width="41" alt="08f412c5724f4ef1f9d8453e6cbbaca" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161894946/8c62d460-77dc-4203-90ff-1a964ebbe672">     <img width="52" alt="e9ac55744198a9959d2a04ad14e9246" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161894946/ec90507a-b7d6-47a3-99a0-7d620c1329bd">
 
 
 ### 2.Resolution
 
 Experimental operation：Slightly change the position of the target object and check whether the sensor can detect  this change. 
 
-Conclusion: The minimum error of HC-SR04 after changing the distance is about 0.3cm, which is consistent with the value of the data sheet.
+Conclusion: The minimum error of HC-SR04 after changing the distance is about 0.02cm, which is consistent with the value of the data sheet.
 
-<img width="470" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161894946/4d0432b6-bb93-42ab-98f8-cc510130906b">
+<img width="42" alt="8de1d5b37173c3c41764a00b38ae845" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161894946/5abd9375-7ff8-4643-a600-11ab7faf72cf">     <img width="42" alt="0bc1ed5e7e1e459a568169ce5be4e90" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161894946/53990833-e7d3-4d45-8f6a-8de489ace58f">     <img width="44" alt="f546bdd0d3aff93ee3512aa2a94bc94" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161894946/7931ac43-2454-4e6f-bc2a-02b94b78d45b">
+
 
 ### 3.Static Error
 
