@@ -1,4 +1,4 @@
-</code>
+<pre><code>
 #include <MPU6050.h>
 
 #define ACCELE_RANGE 4
