@@ -103,6 +103,12 @@ I taped the MPU6050 to the breadboard, then taped the breadboard and Mega2560 to
 
 <img width="264" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/d6af43af-4f66-47b7-a090-8b9c2bcfbe14">
 
+The temperature and humidity of the test environment are shown in the figure.
+
+<img width="128" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/a5ce2015-82be-4470-adbf-62fd64748272">
+
+* Temperature and humidity in the operating environment are critical to sensor performance, as these environmental parameters directly affect the physical and chemical properties of the sensor. For example, a change in temperature can affect the resistivity of an electronic component, thereby altering the output signal of a sensor. In addition, high humidity conditions can lead to small moisture condensation between sensor components, which can lead to corrosion or other forms of physical damage in the long term, affecting the sensitivity and accuracy of the sensor.
+
 #### When the conveyor belt speed is 0.2MPH
 
 <img width="328" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/afe7d781-c6f4-47ad-a382-35a73dfe81f2">
@@ -140,6 +146,10 @@ I taped the MPU6050 to the breadboard, then taped the breadboard to the back of 
 <img width="316" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/6555f108-c984-4112-91ea-a27c1bc3f6d5">
 
 ![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/f71759f0-34c5-430a-ae7d-ca25aec5401f)
+
+The temperature and humidity of the test environment are shown in the figure.
+
+<img width="157" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/71bcfe6a-03f8-4d57-9896-dbcf63d3d825">
 
 ##### then I use Excel to record and draw a scott diagram
 
