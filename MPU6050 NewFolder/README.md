@@ -124,7 +124,7 @@ I taped the MPU6050 to the breadboard, then taped the breadboard and Mega2560 to
 
 ##### the data is shown below:
 
-<img width="846" alt="6401bf88659e5adef82f05bec375561" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/b0ed9dff-e2a5-4c4a-9ab0-94500068eb14">
+<img width="809" alt="1709343774847" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/15dac665-2bbf-44d6-a88b-ad0c8bdab0ef">
 
 
 <img width="591" alt="0ef17535e2d3b1f5a64aa86a6a39b6b" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/d5257d44-114b-4c6a-a7f8-40f2c4a8818a">
