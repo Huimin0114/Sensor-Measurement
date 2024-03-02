@@ -23,15 +23,15 @@ Gyroscope suffer from drift; accelerometers are used to compensate for that.
 <img width="590" alt="7ce8667502ab322dde17dfb75ffa665" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/d9bbb930-bdb4-4c60-9acd-6b726a9f229f">
 
 # Getting started
-•Materials: one MPU6050 module, one Mega 2560 board, one breadboard, one adhesive tape and six wires.
+* Materials: one MPU6050 module, one Mega 2560 board, one breadboard, one adhesive tape and six wires.
 
-•Using jumper wires, connect the VCC pin of the MPU6050 to the 5V output on the Arduino Mega 2560.
+* Using jumper wires, connect the VCC pin of the MPU6050 to the 5V output on the Arduino Mega 2560.
 
-•Connect the GND pin to one of the GND pins on the Arduino.
+* Connect the GND pin to one of the GND pins on the Arduino.
 
-•Attach the SDA (Serial Data) pin of the MPU6050 to the SDA pin on the Arduino.
+* Attach the SDA (Serial Data) pin of the MPU6050 to the SDA pin on the Arduino.
 
-•Attach the SCL (Serial Clock) pin of the MPU6050 to the SCL pin on the Arduino.
+* Attach the SCL (Serial Clock) pin of the MPU6050 to the SCL pin on the Arduino.
 
 <img width="523" alt="1709336829495" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/b7ecd5a9-b6d9-42c0-9243-06ec864d0537">
 
@@ -43,11 +43,11 @@ Gyroscope suffer from drift; accelerometers are used to compensate for that.
 
 # Secure MPU6050 to Breadboard:
 
-•Take a piece of adhesive tape that is suitable in length to hold the MPU6050 module.
+* Take a piece of adhesive tape that is suitable in length to hold the MPU6050 module.
 
-•Place the MPU6050 on the breadboard in the desired location, ensuring that it lies flat and none of the pins are bent.
+* Place the MPU6050 on the breadboard in the desired location, ensuring that it lies flat and none of the pins are bent.
 
-•Apply the adhesive tape over the MPU6050 module, pressing firmly to adhere it to the breadboard without covering any of the pin headers or interfering with the pin connections.
+* Apply the adhesive tape over the MPU6050 module, pressing firmly to adhere it to the breadboard without covering any of the pin headers or interfering with the pin connections.
 
 <img width="294" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/cef593ba-6901-4365-8b3a-13c465ac6f0d">
 
@@ -99,15 +99,15 @@ void loop() {
 
 # Repeatability
 
-I taped the MPU6050 to the breadboard, then taped the breadboard and Mega2560 together at the bottom, then I assembled all the pieces at night when no one was around (no extra noise) and taped them to a treadmill conveyor belt, which I measured by adjusting the pace of the conveyor belt.
+* I taped the MPU6050 to the breadboard, then taped the breadboard and Mega2560 together at the bottom, then I assembled all the pieces at night when no one was around (no extra noise) and taped them to a treadmill conveyor belt, which I measured by adjusting the pace of the conveyor belt.
 
 <img width="264" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/d6af43af-4f66-47b7-a090-8b9c2bcfbe14">
 
-The temperature and humidity of the test environment are shown in the figure.
+* The temperature and humidity of the test environment are shown in the figure.
 
 <img width="128" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/a5ce2015-82be-4470-adbf-62fd64748272">
 
-* Temperature and humidity in the operating environment are critical to sensor performance, as these environmental parameters directly affect the physical and chemical properties of the sensor. For example, a change in temperature can affect the resistivity of an electronic component, thereby altering the output signal of a sensor. In addition, high humidity conditions can lead to small moisture condensation between sensor components, which can lead to corrosion or other forms of physical damage in the long term, affecting the sensitivity and accuracy of the sensor.
+Temperature and humidity in the operating environment are critical to sensor performance, as these environmental parameters directly affect the physical and chemical properties of the sensor. For example, a change in temperature can affect the resistivity of an electronic component, thereby altering the output signal of a sensor. In addition, high humidity conditions can lead to small moisture condensation between sensor components, which can lead to corrosion or other forms of physical damage in the long term, affecting the sensitivity and accuracy of the sensor.
 
 #### When the conveyor belt speed is 0.2MPH
 
@@ -141,13 +141,13 @@ The temperature and humidity of the test environment are shown in the figure.
 
 # Linearity
 
-I taped the MPU6050 to the breadboard, then taped the breadboard to the back of the phone, then laid it flat on a table, moved up nine sets at a degree of about 20, and recorded the data for comparison.
+* I taped the MPU6050 to the breadboard, then taped the breadboard to the back of the phone, then laid it flat on a table, moved up nine sets at a degree of about 20, and recorded the data for comparison.
 
 <img width="316" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/6555f108-c984-4112-91ea-a27c1bc3f6d5">
 
 ![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/f71759f0-34c5-430a-ae7d-ca25aec5401f)
 
-The temperature and humidity of the test environment are shown in the figure.
+* The temperature and humidity of the test environment are shown in the figure.
 
 <img width="157" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/71bcfe6a-03f8-4d57-9896-dbcf63d3d825">
 
