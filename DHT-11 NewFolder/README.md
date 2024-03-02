@@ -158,7 +158,7 @@ Purpose:To assess the DHT-11 sensor's measurement  range for both temperature an
 
 Reference Standard：
 
-Temperature Range：	 0°C to 50°C 
+1.Temperature Range：	 0°C to 50°C 
 
-Humidity Range：	20% to 80%
+2.Humidity Range：	20% to 80%
 
