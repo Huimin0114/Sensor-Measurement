@@ -1,5 +1,4 @@
 # Arduino code
-<pre><code>
 #include "DHT.h"
 
 #define DHTPIN 4  // Set the pin connected to the DHT11 data pin
@@ -36,4 +35,3 @@ void loop() {
   Serial.print(temperature);
   Serial.println(" *C");
 }
-</code></pre>
