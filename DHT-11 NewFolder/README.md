@@ -50,7 +50,7 @@ void loop() {
   Serial.print(temperature);
   Serial.println(" *C");
 }
-</code>code></pre>pre>
+
 
 
 
