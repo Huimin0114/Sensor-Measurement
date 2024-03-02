@@ -148,4 +148,5 @@ fprintf('Standard deviation of temperature errors: %.3f°C\n', std_dev);
 ![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/f7a9fc88-532a-4a4a-bfe1-ac87642b52c6)
 
 * Comparison
+  
 Based on the experimental results, we can observe that the average errors in both temperature and humidity measurements of the DHT-11 are within the specifications provided by the manufacturer, and the fluctuations are minimal. This indicates that the DHT-11 demonstrates good accuracy and consistency under the test conditions.
