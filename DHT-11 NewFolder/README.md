@@ -72,6 +72,8 @@ Testing Environment: I will test them in a controlled environment that allows fo
 4.Repeat measurements across various temperature and humidity points to comprehensively assess the DHT-11's performance.
 
 * Testing figure
+
+
 ![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/8997f32b-f7d7-4e35-88e2-504c4b58301e)
 
 
