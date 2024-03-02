@@ -84,7 +84,7 @@ Testing Environment: I will test them in a controlled environment that allows fo
 # Matlab code
 I will use the matlab to caculate the error
 <pre><code>
-% Define the data
+% Define the humidity data
 dht11_readings = {
     repmat(29.9, 1, 10),  % Group 1: 10 readings of 29.9%
     repmat(30.0, 1, 10),  % Group 2: 10 readings of 30%
@@ -110,5 +110,31 @@ fprintf('Average error (accuracy): %.3f%%\n', avg_error);
 fprintf('Standard deviation of humidity errors: %.3f%%\n', std_dev);
 </code></pre>
 
+</code></pre>
+% Define the temperature data
+dht11_temperatures = {
+    repmat(28.1, 1, 10), % Group 1: 10 readings of 28.1°C
+    repmat(28.1, 1, 10), % Group 2: 10 readings of 28.1°C
+    [repmat(28.1, 1, 9), 28.0], % Group 3: 9 readings of 28.1°C and 1 reading of 28°C
+    [repmat(28.1, 1, 5), repmat(28.0, 1, 5)] % Group 4: 5 readings of 28.1°C and 5 readings of 28°C
+};
+true_temperatures = [27.22, 27.78, 27.22, 27.22]; % True temperature values
+
+% Calculate the average temperature readings for each group
+avg_dht11_temperatures = cellfun(@mean, dht11_temperatures);
+
+% Calculate the temperature errors for each group
+temperature_errors = avg_dht11_temperatures - true_temperatures;
+
+% Calculate the average error
+avg_error = mean(temperature_errors);
+
+% Calculate the standard deviation of the errors
+std_dev = std(temperature_errors);
+
+% Display the results
+fprintf('Average error (accuracy): %.3f°C\n', avg_error);
+fprintf('Standard deviation of temperature errors: %.3f°C\n', std_dev);
+</code></pre>
 
 
