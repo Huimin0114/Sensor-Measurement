@@ -97,4 +97,17 @@ void loop() {
 }
 </code></pre>
 
-###### Repeatability
+# Repeatability
+
+I taped the MPU6050 to the breadboard, then taped the breadboard and Mega2560 together at the bottom, then I assembled all the pieces at night when no one was around (no extra noise) and taped them to a treadmill conveyor belt, which I measured by adjusting the pace of the conveyor belt.
+
+<img width="264" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/d6af43af-4f66-47b7-a090-8b9c2bcfbe14">
+
+•When the conveyor belt speed is 0.2MPH
+
+<img width="328" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/afe7d781-c6f4-47ad-a382-35a73dfe81f2">
+
+
+•When the conveyor belt speed is 0.5MPH
+
+![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/6a839610-7976-4a8d-937c-7f471a9ebf20)
