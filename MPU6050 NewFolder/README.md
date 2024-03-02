@@ -132,3 +132,20 @@ I taped the MPU6050 to the breadboard, then taped the breadboard and Mega2560 to
 ##### then I use Excel to calculate
 
 <img width="313" alt="1709342869016" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/9e5dddc4-6c16-43a7-9c80-da25e81c6d97">
+
+# Linearity
+
+I taped the MPU6050 to the breadboard, then taped the breadboard to the back of the phone, then laid it flat on a table, moved up nine sets at a degree of about 20, and recorded the data for comparison.
+
+<img width="316" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/6555f108-c984-4112-91ea-a27c1bc3f6d5">
+
+![36d059d8179268a82f27f42984325bf](https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/a3f26392-ba02-435b-9eee-2c8f48a20264)
+
+##### then I use Excel to record and draw a scott diagram
+
+<img width="351" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/1651fa08-f251-44c1-b61b-19ae1f3f5546">
+
+<img width="463" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/9ed27204-1f70-465e-b9ab-016ec563165c">
+
+From the diagram, we can find R^2 is very close to '1', which means they have a very strong linear relationship.
+
