@@ -139,13 +139,14 @@ I taped the MPU6050 to the breadboard, then taped the breadboard to the back of 
 
 <img width="316" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/6555f108-c984-4112-91ea-a27c1bc3f6d5">
 
-![36d059d8179268a82f27f42984325bf](https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/a3f26392-ba02-435b-9eee-2c8f48a20264)
+![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/ad174768-1a6b-407b-bfbf-89937e77ccdc)
+
 
 ##### then I use Excel to record and draw a scott diagram
 
-<img width="351" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/1651fa08-f251-44c1-b61b-19ae1f3f5546">
+<img width="351" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/de4d6115-6a51-45c6-8d1a-9e9f65412fd0">
 
-<img width="463" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/9ed27204-1f70-465e-b9ab-016ec563165c">
+<img width="463" alt="image" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/d814f73b-ab43-4c3b-bc7b-f9c6ad260515">
 
 From the diagram, we can find R^2 is very close to '1', which means they have a very strong linear relationship.
 
