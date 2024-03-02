@@ -186,8 +186,7 @@ Based on the tests described above, We can conclude that the DHT-11 sensor's eff
 
 # Conclusion
 
-By directly observing and analyzing experimental data,we can determine the measurement range of the DHT-11 sensor under specific test conditions. This approach offers a direct and practical way to verify the sensor's performance, especially in application development and environmental monitoring projects. It's important to note that the actual performance of the sensor in practical applications may be influenced by various factors, including  environmental conditions,  placement.Therefore, these external factors should be considered .
-
+By directly observing and analyzing experimental data,we can determine the measurement range of the DHT-11 sensor under specific test conditions. This approach offers a direct and practical way to verify the sensor's performance.
 
 
 
