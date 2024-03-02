@@ -155,5 +155,9 @@ Based on the experimental results, we can observe that the average errors in bot
 * Test plans :
 
 Purpose:To assess the DHT-11 sensor's measurement  range for both temperature and humidity under controlled conditions.
-Reference Standard：Temperature Range	 0°C to 50°C Humidity Range	20% to 80%
+Reference Standard：
+
+Temperature Range	 0°C to 50°C 
+
+Humidity Range	20% to 80%
 
