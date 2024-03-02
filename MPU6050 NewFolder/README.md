@@ -122,5 +122,13 @@ I taped the MPU6050 to the breadboard, then taped the breadboard and Mega2560 to
 
 ![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/5dc0c363-0d69-4f53-ac0b-ed7724f9d24a)
 
+##### the data is shown below:
+
+<img width="846" alt="6401bf88659e5adef82f05bec375561" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/b0ed9dff-e2a5-4c4a-9ab0-94500068eb14">
 
 
+<img width="591" alt="0ef17535e2d3b1f5a64aa86a6a39b6b" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/d5257d44-114b-4c6a-a7f8-40f2c4a8818a">
+
+##### then I use Excel to calculate
+
+<img width="313" alt="1709342869016" src="https://github.com/Huimin0114/Sensor-Measurement/assets/161892823/9e5dddc4-6c16-43a7-9c80-da25e81c6d97">
