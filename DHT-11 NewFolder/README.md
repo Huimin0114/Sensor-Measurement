@@ -50,6 +50,7 @@ void loop() {
   Serial.print(temperature);
   Serial.println(" *C");
 }
+</code></pre>
 
  # Accuracy
  Test plan:
