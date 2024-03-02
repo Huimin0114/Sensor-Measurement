@@ -69,7 +69,7 @@ Testing Environment: I will test them in a controlled environment that allows fo
 
 3.Repeat measurements across various temperature and humidity points to comprehensively assess the DHT-11's performance.
  
-
+4.Compare arduino experimental results with measuring instrument results
 
 
 
