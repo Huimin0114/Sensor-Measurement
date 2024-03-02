@@ -65,7 +65,7 @@ Testing Environment: I will test them in a controlled environment that allows fo
 
 1.Let the environment's temperature and humidity to stable for at least 30 minutes at each test point.
 
-2.Divide them into  four groups of measurements were taken, with an interval of five minutes between each group.
+2.Divide the measurements into  four groups , with an interval of five minutes between each group.
 
 3.Record temperature and humidity readings from both the DHT-11 and the reference instrument simultaneously.  
 
