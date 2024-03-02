@@ -83,7 +83,9 @@ Testing Environment: I will test them in a controlled environment that allows fo
 
 # Matlab code
 I will use the matlab to caculate the error
+
 Matlab code of humidity
+
 <pre><code>
 % Define the humidity data
 dht11_readings = {
