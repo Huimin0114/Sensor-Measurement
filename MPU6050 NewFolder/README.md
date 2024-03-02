@@ -151,8 +151,8 @@ From the diagram, we can find R² is very close to '1', which means they have a 
 
 # Conclusion
 
-Through a series of experiments on the MPU6050 6-axis motion tracking device, I conducted an in-depth test and analysis of its repeatability and linearity. 
-
-By using the treadmill as an experimental platform, I successfully simulated the operating environment of the sensor at constant speed and evaluated the performance of the MPU6050 under different dynamic conditions by precisely adjusting the speed of the conveyor belt. The results showed that at speeds of 0.2MPH and 0.5MPH, the MPU6050 demonstrated good repeatability, and its accelerometer and gyroscope data maintained a high degree of consistency over repeated tests.
+Through a series of experiments on the MPU6050 6-axis motion tracking device, I conducted an in-depth test and analysis of its repeatability and linearity. By using the treadmill as an experimental platform, I successfully simulated the operating environment of the sensor at constant speed and evaluated the performance of the MPU6050 under different dynamic conditions by precisely adjusting the speed of the conveyor belt. The results showed that at speeds of 0.2MPH and 0.5MPH, the MPU6050 demonstrated good repeatability, and its accelerometer and gyroscope data maintained a high degree of consistency over repeated tests.
 
 In addition, by conducting linearity tests by fixing the sensor to the back of the phone at different tilt angles, I found a strong linear relationship between the accelerometer output and the tilt Angle, with an R² value very close to 1. This demonstrates the MPU6050's high accuracy and reliability in measuring inclination, further confirming its potential for use in complex motion tracking and positioning systems.
+
+All in all, while this work validates the performance of the MPU6050 to some extent, it also exposes limitations in the design and execution of the experiment. I recognize that there are many more performance characteristics and application scenarios to be explored for a sensor as complex as the MPU6050.
