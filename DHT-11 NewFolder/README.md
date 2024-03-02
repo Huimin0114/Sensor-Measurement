@@ -54,7 +54,8 @@ void loop() {
 
  # Accuracy
  Test plan:
- Purpose:To evaluate the accuracy of the DHT-11 sensor in measuring temperature and humidity by comparing its readings.
+ 
+ * Purpose:To evaluate the accuracy of the DHT-11 sensor in measuring temperature and humidity by comparing its readings.
 
 Reference Standard:the accuracy is ±5%RH and ±2℃.
 
