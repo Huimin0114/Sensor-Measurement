@@ -53,8 +53,11 @@ Gyroscope suffer from drift; accelerometers are used to compensate for that.
 
 # Code
 Restart the Arduino IDE and Open File >  Libraries > MPU6050 > basic.
+
 Make sure Tools > Board is Arduino Mega or Mega 2560, and Tools > Port has the correct COM9 port.
+
 Select Sketch > Upload to compile and upload the code to the creator.
+
 Open the  Tools > Serial Monitor and see the output
 
 <pre><code>#define ACCELE_RANGE 4
@@ -92,4 +95,4 @@ void loop() {
   Serial.print(" | GyZ = "); Serial.print(GyZ / 65536 * GYROSC_RANGE+0.25); Serial.println("d/s \n");
   delay(500);
 }
-</code>code></pre>pre>
+</code>code></pre>
