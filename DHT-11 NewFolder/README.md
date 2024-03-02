@@ -13,6 +13,7 @@ In this example, we can directly connect the pins of DHT11 Module to the pins of
 ![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/c0726ff7-c7cf-41e2-91a2-22cafaf618e7)
 
 # Arduino code
+<pre><code>
 #include "DHT.h"
 
 #define DHTPIN 4  // Set the pin connected to the DHT11 data pin
@@ -49,7 +50,7 @@ void loop() {
   Serial.print(temperature);
   Serial.println(" *C");
 }
-
+</code>code></pre>pre>
 
 
 
