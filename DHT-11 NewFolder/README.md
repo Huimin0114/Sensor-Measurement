@@ -178,9 +178,8 @@ Testing Environment: I will test them in a controlled environment that allows fo
 
  * Testing figure
 
-I changed it from an environment of 20 degrees Celsius to a refrigerator of 0 degrees Celsius and measured its temperature.
+![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/4dc74dcd-1afc-405d-bbe8-8fd6feed1c3b)
 
-![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/fadce85d-0dc6-4c48-ba6a-d7b46d04d3a8)
 
 
 
