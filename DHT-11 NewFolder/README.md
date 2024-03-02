@@ -162,3 +162,18 @@ Reference Standard：
 
 2.Humidity Range：	20% to 80%
 
+Testing Environment: I will test them in a controlled environment that allows for temperature and humidity adjustments (0 to 50°C for temperature and 20% to 80%RH for humidity).
+
+* Materials
+
+
+
+1.High-accuracy reference hygrometer/thermometer (for temperature and humidity)
+
+2.Humidifier and dehumidifier (for humidity variation)
+
+3.Refrigerator and water kettle  (for temperature variation)
+
+4.Enclosed testing environment
+
+
