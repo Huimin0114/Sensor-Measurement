@@ -95,4 +95,4 @@ void loop() {
   Serial.print(" | GyZ = "); Serial.print(GyZ / 65536 * GYROSC_RANGE+0.25); Serial.println("d/s \n");
   delay(500);
 }
-</code>code></pre>
+</code></pre>
