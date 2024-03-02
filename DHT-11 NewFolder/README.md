@@ -81,8 +81,33 @@ Testing Environment: I will test them in a controlled environment that allows fo
 
 ![image](https://github.com/Huimin0114/Sensor-Measurement/assets/161893598/3b40491e-f561-40b0-acf2-da46c71a6826)
 
+# Matlab code
+I will use the matlab to caculate the error
 
+% Define the data
+dht11_readings = {
+    repmat(29.9, 1, 10),  % Group 1: 10 readings of 29.9%
+    repmat(30.0, 1, 10),  % Group 2: 10 readings of 30%
+    [repmat(29.8, 1, 7), repmat(29.9, 1, 3)],  % Group 3: 7 readings of 29.8% and 3 readings of 29.9%
+    [repmat(29.9, 1, 7), repmat(30.0, 1, 3)]   % Group 4: 7 readings of 29.9% and 3 readings of 30%
+};
+true_humidity = [31, 30, 30, 30];  % True humidity values
 
+% Calculate the average humidity readings for each group
+avg_dht11_readings = cellfun(@mean, dht11_readings);
+
+% Calculate the humidity errors for each group
+humidity_errors = avg_dht11_readings - true_humidity;
+
+% Calculate the average error
+avg_error = mean(humidity_errors);
+
+% Calculate the standard deviation of the errors
+std_dev = std(humidity_errors);
+
+% Display the results
+fprintf('Average error (accuracy): %.3f%%\n', avg_error);
+fprintf('Standard deviation of humidity errors: %.3f%%\n', std_dev);
 
 
 
