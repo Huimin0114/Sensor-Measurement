@@ -96,3 +96,5 @@ void loop() {
   delay(500);
 }
 </code></pre>
+
+# Repeatability
